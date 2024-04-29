@@ -2,7 +2,7 @@
 
 A Free_for_all Corne-Inspired Repo for anyone wanting to build there first corne keyboard on a budget (or just anyone wanting to see a different take on the same)
 
----
+
 ![CoolCorne](https://github.com/Joe-BN/Corne_Keyboard/assets/128038111/5caccad5-0924-412d-9b53-11643fba4f2f)
 ---
 I'll include links in the documentation as we go on
