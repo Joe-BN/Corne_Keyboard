@@ -6,5 +6,5 @@
 
 Note that though only one is wired it applies to both sides. The a bove is just to give you an idea of how the wiring works: 
 
-Shout ot to sanderg for the schematics !!!
+Shout out to sanderg for the schematics !!!
 Take a look at the link if you want to find out more about his build: (https://sanderg.nl/en/posts/how-to-split-keyboard-with-rp2040-and-kmk/)
