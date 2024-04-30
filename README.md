@@ -23,6 +23,3 @@ Parts for the build:
     Diodes: (from PIXEL Electric)
     
 ---
-
-![CoolCorne3](https://github.com/Joe-BN/Corne_Keyboard/assets/128038111/7688199c-8f62-440f-b4f6-f9bf333bbca6)
-
