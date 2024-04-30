@@ -2,6 +2,12 @@
 
 A Free_for_all Corne-Inspired Repo for anyone wanting to build there first corne keyboard on a budget (or just anyone wanting to see a different take on the same)
 
+It will be running on KMK for firmware control:
+  + This is because I found it easier to flask KMK on an RP2040 based microcontroller
+  + Also:
+    + The programs are written in Python; hence easy to understand and modify
+    - The pins used don't really matter, since they are defined in the code (That saved me from a major headache)
+    - The use and related examples are well documented on there github page: https://github.com/KMKfw
 
 ![CoolCorne](https://github.com/Joe-BN/Corne_Keyboard/assets/128038111/5caccad5-0924-412d-9b53-11643fba4f2f)
 ---
