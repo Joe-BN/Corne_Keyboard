@@ -55,3 +55,4 @@ class KMKKeyboard(_KMKKeyboard):
                 21, 22, 23,  47, 46, 45,
     ]
 ```
+The code above maps the keys according to the pins used for later use.
