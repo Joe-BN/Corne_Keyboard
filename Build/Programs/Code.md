@@ -1,17 +1,3 @@
-Note that though only one is wired it applies to both sides.
-The a below is just to give you an idea of how the wiring works: 
-
-
----
-![CoolCorne3](https://github.com/Joe-BN/Corne_Keyboard/assets/128038111/7688199c-8f62-440f-b4f6-f9bf333bbca6)
-
-![CoolCorne4](https://github.com/Joe-BN/Corne_Keyboard/assets/128038111/e214ec64-e33a-4d36-9462-b9759ce47652)
----
-
-
-Shout out to sanderg for the schematics !!!
-Take a look at the link if you want to find out more about his build: (https://sanderg.nl/en/posts/how-to-split-keyboard-with-rp2040-and-kmk/)
-
 ## Note ##
 In this build and others like it, I will also be using the KMK system to programme the microcontrolles.
 As mentioned before, It's simplisity is attractive and allows room to experiment
@@ -57,4 +43,4 @@ class KMKKeyboard(_KMKKeyboard):
 ```
 The code above maps the keys according to the pins used for later use.
 
-Check out here for the supported boards: https://kmkfw.io/Officially_Supported_Microcontrollers/
+Check out [here]( https://kmkfw.io/Officially_Supported_Microcontrollers/) for the supported boards:
