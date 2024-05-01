@@ -16,16 +16,15 @@ The build I use for this is hand wired (Don't worry, it's not that hard and also
 
 ---
 Parts for the build:
-  Case: 3D printed
-    files on Printables website
-  Microcontroller:
-    YD-RP2040 Development Board 4MB Flash Raspberry Pi PICO Dua * 2
-  Cables:
-    TRRS Cable ;(4-Pin Aux)
-    Type-C to Type-C (/USB-A) cable
-  Other:
-    MX Switches and MX-Compatible keycaps (from an online shop: JUMIA)
-      # Remember to make sure that you pic keycaps compatible with your 
-    Diodes: (from PIXEL Electric)
+  + Case: 3D printed
+    - files on the Printables website; for [instance](https://www.printables.com/model/347524)
+  + Microcontroller:
+    - YD-RP2040 Development Board (4MB Flash Raspberry Pi PICO * 2)
+  + Cables:
+    - TRRS Cable ;(4-Pin Aux)
+    - Type-C to Type-C (/USB-A) cable
+  + Other:
+    - MX Switches and MX-Compatible keycaps(Remember to make sure that you pic keycaps compatible with your switches)
+    - Diodes IN4148
     
 ---
