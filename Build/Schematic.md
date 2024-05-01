@@ -56,3 +56,5 @@ class KMKKeyboard(_KMKKeyboard):
     ]
 ```
 The code above maps the keys according to the pins used for later use.
+
+Check out here for the supported boards: https://kmkfw.io/Officially_Supported_Microcontrollers/
